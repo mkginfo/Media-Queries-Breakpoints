@@ -1,7 +1,7 @@
 Media Queries Breakpoints
 =========================
 
-Media Queries Breakpoints for All device 
+Media Queries Breakpoints for All devices
 
 
 /* All Smartphones in portrait and landscape ----------- */
